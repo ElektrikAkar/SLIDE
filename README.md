@@ -8,6 +8,8 @@
 [ ] Adding release mode to Cmake
 [ ] Elimination of raw arrays. 
 [ ] Using std::vector for large data arrays. 
+[ ] Creating wiki page from *.pdfs. 
+[ ] Moving files to folders. 
 
 
 
