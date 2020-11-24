@@ -1,3 +1,16 @@
+# Information about this fork of this library: 
+
+## TODO: 
+
+[ ] Cannot compile with MSVC. 
+  [ ] Eliminate GCC dependent features.
+  [ ] Add Cmake necessary options.  
+[ ] Adding release mode to Cmake
+[ ] Elimination of raw arrays. 
+[ ] Using std::vector for large data arrays. 
+
+
+
 About _Slide_
 ===========================
 
